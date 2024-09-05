@@ -1,0 +1,14 @@
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\cronometro\bin\Debug\net8.0\cronometro.exe
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\cronometro\bin\Debug\net8.0\cronometro.deps.json
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\cronometro\bin\Debug\net8.0\cronometro.runtimeconfig.json
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\cronometro\bin\Debug\net8.0\cronometro.dll
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\cronometro\bin\Debug\net8.0\cronometro.pdb
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\cronometro\obj\Debug\net8.0\cronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\cronometro\obj\Debug\net8.0\cronometro.AssemblyInfoInputs.cache
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\cronometro\obj\Debug\net8.0\cronometro.AssemblyInfo.cs
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\cronometro\obj\Debug\net8.0\cronometro.csproj.CoreCompileInputs.cache
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\cronometro\obj\Debug\net8.0\cronometro.dll
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\cronometro\obj\Debug\net8.0\refint\cronometro.dll
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\cronometro\obj\Debug\net8.0\cronometro.pdb
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\cronometro\obj\Debug\net8.0\cronometro.genruntimeconfig.cache
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\cronometro\obj\Debug\net8.0\ref\cronometro.dll
